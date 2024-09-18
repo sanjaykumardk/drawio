@@ -4,31 +4,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-4" target="FfnxhRVmFmz3ayBUW8Ok-5">
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-4" target="FfnxhRVmFmz3ayBUW8Ok-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FfnxhRVmFmz3ayBUW8Ok-4" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=anomaly_detection;fillColor=none;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="143.00000000000003" y="261.45" width="98" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-5" target="FfnxhRVmFmz3ayBUW8Ok-6">
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-5" target="FfnxhRVmFmz3ayBUW8Ok-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FfnxhRVmFmz3ayBUW8Ok-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Data_Collection_Rules.svg;" vertex="1" parent="1">
           <mxGeometry x="253" y="446.45" width="85.21" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-6" target="FfnxhRVmFmz3ayBUW8Ok-7">
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-6" target="FfnxhRVmFmz3ayBUW8Ok-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FfnxhRVmFmz3ayBUW8Ok-6" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json" vertex="1" parent="1">
           <mxGeometry x="447.25" y="435.25" width="97" height="109.4" as="geometry" />
         </mxCell>
-        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-7" target="FfnxhRVmFmz3ayBUW8Ok-8">
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-7" target="FfnxhRVmFmz3ayBUW8Ok-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FfnxhRVmFmz3ayBUW8Ok-7" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
           <mxGeometry x="448" y="261" width="95.5" height="113.86" as="geometry" />
         </mxCell>
-        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-8" target="FfnxhRVmFmz3ayBUW8Ok-9">
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-8" target="FfnxhRVmFmz3ayBUW8Ok-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FfnxhRVmFmz3ayBUW8Ok-8" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="FfnxhRVmFmz3ayBUW8Ok-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Dashboard2.svg;" vertex="1" parent="1">
           <mxGeometry x="642" y="463.45" width="103" height="72.71" as="geometry" />
         </mxCell>
-        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-10" target="FfnxhRVmFmz3ayBUW8Ok-4">
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;shape=flexArrow;fillColor=default;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-10" target="FfnxhRVmFmz3ayBUW8Ok-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="313.45" />
