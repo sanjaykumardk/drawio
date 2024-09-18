@@ -14,28 +14,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FfnxhRVmFmz3ayBUW8Ok-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Data_Collection_Rules.svg;" vertex="1" parent="1">
-          <mxGeometry x="253" y="446.45" width="85.21" height="87" as="geometry" />
+          <mxGeometry x="255" y="522" width="85.21" height="87" as="geometry" />
         </mxCell>
         <mxCell id="FfnxhRVmFmz3ayBUW8Ok-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-6" target="FfnxhRVmFmz3ayBUW8Ok-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FfnxhRVmFmz3ayBUW8Ok-6" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json" vertex="1" parent="1">
-          <mxGeometry x="447.25" y="435.25" width="97" height="109.4" as="geometry" />
+          <mxGeometry x="459" y="510.8" width="97" height="109.4" as="geometry" />
         </mxCell>
         <mxCell id="FfnxhRVmFmz3ayBUW8Ok-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-7" target="FfnxhRVmFmz3ayBUW8Ok-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FfnxhRVmFmz3ayBUW8Ok-7" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
-          <mxGeometry x="448" y="261" width="95.5" height="113.86" as="geometry" />
+          <mxGeometry x="459" y="261" width="95.5" height="113.86" as="geometry" />
         </mxCell>
         <mxCell id="FfnxhRVmFmz3ayBUW8Ok-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-8" target="FfnxhRVmFmz3ayBUW8Ok-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FfnxhRVmFmz3ayBUW8Ok-8" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="647" y="261.45" width="93" height="113.41" as="geometry" />
+          <mxGeometry x="693" y="261" width="93" height="113.41" as="geometry" />
         </mxCell>
         <mxCell id="FfnxhRVmFmz3ayBUW8Ok-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Dashboard2.svg;" vertex="1" parent="1">
-          <mxGeometry x="642" y="463.45" width="103" height="72.71" as="geometry" />
+          <mxGeometry x="688" y="527.29" width="103" height="72.71" as="geometry" />
         </mxCell>
         <mxCell id="FfnxhRVmFmz3ayBUW8Ok-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;shape=flexArrow;fillColor=default;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-10" target="FfnxhRVmFmz3ayBUW8Ok-4">
           <mxGeometry relative="1" as="geometry">
@@ -45,7 +45,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FfnxhRVmFmz3ayBUW8Ok-10" value="" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;fillColor=#0080FF;" vertex="1" parent="1">
-          <mxGeometry x="60" y="441.45" width="99" height="99" as="geometry" />
+          <mxGeometry x="49" y="501" width="99" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
