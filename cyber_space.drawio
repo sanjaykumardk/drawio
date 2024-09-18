@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.14">
   <diagram name="Page-1" id="rnu4Nlgk-CN_jFhoVj5D">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-4" target="FfnxhRVmFmz3ayBUW8Ok-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-4" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=anomaly_detection;fillColor=none;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="222.00000000000003" y="40" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-5" target="FfnxhRVmFmz3ayBUW8Ok-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="617" y="89" />
+              <mxPoint x="617" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Data_Collection_Rules.svg;" vertex="1" parent="1">
+          <mxGeometry x="466" y="55" width="66.60000000000001" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-6" target="FfnxhRVmFmz3ayBUW8Ok-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-6" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json" vertex="1" parent="1">
+          <mxGeometry x="662" y="116.99999999999999" width="70" height="75.8" as="geometry" />
+        </mxCell>
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-7" target="FfnxhRVmFmz3ayBUW8Ok-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-7" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
+          <mxGeometry x="671" y="349" width="52" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-8" target="FfnxhRVmFmz3ayBUW8Ok-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-8" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="436" y="355" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Dashboard2.svg;" vertex="1" parent="1">
+          <mxGeometry x="190" y="357" width="68" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfnxhRVmFmz3ayBUW8Ok-10" target="FfnxhRVmFmz3ayBUW8Ok-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="81" y="89" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfnxhRVmFmz3ayBUW8Ok-10" value="" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;fillColor=#0080FF;" vertex="1" parent="1">
+          <mxGeometry x="42" y="230" width="78" height="78" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
