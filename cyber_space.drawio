@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.14">
   <diagram name="Page-1" id="rnu4Nlgk-CN_jFhoVj5D">
-    <mxGraphModel dx="2232" dy="1052" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2093" dy="986" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DpcQEi3p-SOCqPOgEFhs-40" value="" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;fillColor=#007FFF;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="84.5" y="505" width="99" height="99" as="geometry" />
+          <mxGeometry x="76.5" y="505" width="107" height="107" as="geometry" />
         </mxCell>
         <mxCell id="DpcQEi3p-SOCqPOgEFhs-41" value="&lt;h5&gt;ML MODEL&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="98.5" y="606" width="71" height="57" as="geometry" />
