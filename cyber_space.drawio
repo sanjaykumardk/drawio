@@ -46,13 +46,13 @@
           <mxGeometry x="84.5" y="505" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="ro-nWM6RniB9RRu4R_Dr-8" value="&lt;h5&gt;ML MODEL&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="84.5" y="618" width="71" height="57" as="geometry" />
+          <mxGeometry x="96" y="618" width="71" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="ro-nWM6RniB9RRu4R_Dr-9" value="&lt;h5 align=&quot;center&quot;&gt;MODEL CRAWLS THROUGH THE WEBSITES&lt;br&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="12" y="246" width="231" height="57" as="geometry" />
+        <mxCell id="ro-nWM6RniB9RRu4R_Dr-9" value="&lt;h5 align=&quot;center&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;MODEL CRAWLS&amp;nbsp;&lt;/font&gt;&lt;/h5&gt;&lt;h5 align=&quot;center&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;THROUGH THE WEBSITES&lt;br&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="43" y="223" width="146" height="86" as="geometry" />
         </mxCell>
         <mxCell id="ro-nWM6RniB9RRu4R_Dr-11" value="&lt;h5&gt;SCRAPE/COLLECTS THE DATA&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="238.11" y="217" width="169" height="57" as="geometry" />
+          <mxGeometry x="219" y="206" width="169" height="57" as="geometry" />
         </mxCell>
         <mxCell id="ro-nWM6RniB9RRu4R_Dr-12" value="&lt;h5&gt;STORE DATA IN JSON FORMAT&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="324.5" y="547" width="171" height="57" as="geometry" />
@@ -61,10 +61,10 @@
           <mxGeometry x="447.25" y="206" width="135" height="57" as="geometry" />
         </mxCell>
         <mxCell id="ro-nWM6RniB9RRu4R_Dr-15" value="&lt;h5&gt;STORE IN DATABASE&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="644.5" y="229" width="123" height="57" as="geometry" />
+          <mxGeometry x="648" y="235" width="123" height="57" as="geometry" />
         </mxCell>
         <mxCell id="ro-nWM6RniB9RRu4R_Dr-16" value="&lt;h5&gt;FETCH AND DISPLAY&amp;nbsp; THE DATA&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="644.5" y="627" width="177" height="57" as="geometry" />
+          <mxGeometry x="635" y="627" width="177" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
