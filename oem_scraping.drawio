@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DwL9asgr4rcvif4lkKyX-1" value="" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_desktop;pointerEvents=1" vertex="1" parent="1">
+        <mxCell id="DwL9asgr4rcvif4lkKyX-1" value="" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#1A1A1A;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_desktop;pointerEvents=1" vertex="1" parent="1">
           <mxGeometry x="16" y="190" width="819" height="745.29" as="geometry" />
         </mxCell>
         <mxCell id="DwL9asgr4rcvif4lkKyX-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="DwL9asgr4rcvif4lkKyX-3" target="DwL9asgr4rcvif4lkKyX-5">
@@ -24,7 +24,7 @@
         <mxCell id="DwL9asgr4rcvif4lkKyX-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="DwL9asgr4rcvif4lkKyX-7" target="DwL9asgr4rcvif4lkKyX-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DwL9asgr4rcvif4lkKyX-7" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json;fillColor=#67AB9F;" vertex="1" parent="1">
+        <mxCell id="DwL9asgr4rcvif4lkKyX-7" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json;fillColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="370" y="453" width="84" height="94" as="geometry" />
         </mxCell>
         <mxCell id="DwL9asgr4rcvif4lkKyX-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="DwL9asgr4rcvif4lkKyX-9" target="DwL9asgr4rcvif4lkKyX-11">
@@ -36,7 +36,7 @@
         <mxCell id="DwL9asgr4rcvif4lkKyX-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="DwL9asgr4rcvif4lkKyX-11" target="DwL9asgr4rcvif4lkKyX-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DwL9asgr4rcvif4lkKyX-11" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+        <mxCell id="DwL9asgr4rcvif4lkKyX-11" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;fillColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="647" y="285" width="124" height="151.21" as="geometry" />
         </mxCell>
         <mxCell id="DwL9asgr4rcvif4lkKyX-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Dashboard2.svg;" vertex="1" parent="1">
