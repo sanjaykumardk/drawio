@@ -121,7 +121,7 @@
         <mxCell id="z0DYAV3MagKkGQWvmR35-37" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="z0DYAV3MagKkGQWvmR35-11">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="400" as="sourcePoint" />
-            <mxPoint x="630" y="210" as="targetPoint" />
+            <mxPoint x="620" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z0DYAV3MagKkGQWvmR35-38" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;" edge="1" parent="1">
