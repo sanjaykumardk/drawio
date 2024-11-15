@@ -19,16 +19,16 @@
         <mxCell id="E2iVttIW-6GU7dD0fnMe-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="40" width="250" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="E2iVttIW-6GU7dD0fnMe-8" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E2iVttIW-6GU7dD0fnMe-8" value="Track Order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="200" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E2iVttIW-6GU7dD0fnMe-9" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E2iVttIW-6GU7dD0fnMe-9" value="Cancel Order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="270" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E2iVttIW-6GU7dD0fnMe-10" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="340" width="130" height="50" as="geometry" />
+        <mxCell id="E2iVttIW-6GU7dD0fnMe-10" value="Manage Menu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="340" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E2iVttIW-6GU7dD0fnMe-11" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E2iVttIW-6GU7dD0fnMe-11" value="Manage Order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="410" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E2iVttIW-6GU7dD0fnMe-12" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -37,10 +37,10 @@
         <mxCell id="E2iVttIW-6GU7dD0fnMe-13" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="550" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E2iVttIW-6GU7dD0fnMe-14" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E2iVttIW-6GU7dD0fnMe-14" value="Place Order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="130" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E2iVttIW-6GU7dD0fnMe-15" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E2iVttIW-6GU7dD0fnMe-15" value="Browse Menu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="60" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E2iVttIW-6GU7dD0fnMe-16" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
