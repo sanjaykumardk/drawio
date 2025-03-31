@@ -5,37 +5,37 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="k9V2tqmrP7SHH0lYJ8vI-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.mongodb" vertex="1" parent="1">
-          <mxGeometry x="34" y="-84" width="41.2" height="86.2" as="geometry" />
+          <mxGeometry x="26" y="-99" width="41.2" height="86.2" as="geometry" />
         </mxCell>
         <mxCell id="k9V2tqmrP7SHH0lYJ8vI-2" value="Users" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-48" y="40" width="60" height="30" as="geometry" />
+          <mxGeometry x="-56" y="25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k9V2tqmrP7SHH0lYJ8vI-3" value="Messages" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="91" y="44" width="60" height="30" as="geometry" />
+          <mxGeometry x="83" y="29" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k9V2tqmrP7SHH0lYJ8vI-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-71" y="76" width="120" height="122" as="geometry" />
+          <mxGeometry x="-79" y="61" width="120" height="122" as="geometry" />
         </mxCell>
         <mxCell id="k9V2tqmrP7SHH0lYJ8vI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="52" y="30" width="149" height="168" as="geometry" />
+          <mxGeometry x="64" y="61" width="129" height="122" as="geometry" />
         </mxCell>
         <mxCell id="k9V2tqmrP7SHH0lYJ8vI-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="k9V2tqmrP7SHH0lYJ8vI-1" target="k9V2tqmrP7SHH0lYJ8vI-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="34" y="136" as="sourcePoint" />
-            <mxPoint x="58" y="34" as="targetPoint" />
+            <mxPoint x="26" y="121" as="sourcePoint" />
+            <mxPoint x="50" y="19" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k9V2tqmrP7SHH0lYJ8vI-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="k9V2tqmrP7SHH0lYJ8vI-1" target="k9V2tqmrP7SHH0lYJ8vI-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="34" y="136" as="sourcePoint" />
-            <mxPoint x="84" y="86" as="targetPoint" />
+            <mxPoint x="26" y="121" as="sourcePoint" />
+            <mxPoint x="76" y="71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k9V2tqmrP7SHH0lYJ8vI-8" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fullname &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Password&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ProfilePic&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-43" y="69" width="60" height="129" as="geometry" />
+          <mxGeometry x="-51" y="54" width="60" height="129" as="geometry" />
         </mxCell>
         <mxCell id="k9V2tqmrP7SHH0lYJ8vI-10" value="&lt;div&gt;Sender ID&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Receiver ID&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Text &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Image&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="94.5" y="81" width="93" height="102" as="geometry" />
+          <mxGeometry x="86.5" y="66" width="93" height="102" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
