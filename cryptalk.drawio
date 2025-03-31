@@ -1,11 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.1.3">
   <diagram name="Page-1" id="9tEH9eCaLQvQjWti2W_p">
-    <mxGraphModel dx="577" dy="596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="996" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="k9V2tqmrP7SHH0lYJ8vI-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.mongodb" vertex="1" parent="1">
-          <mxGeometry x="175" y="5" width="41.2" height="86.2" as="geometry" />
+          <mxGeometry x="34" y="-84" width="41.2" height="86.2" as="geometry" />
+        </mxCell>
+        <mxCell id="k9V2tqmrP7SHH0lYJ8vI-2" value="Users" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-48" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k9V2tqmrP7SHH0lYJ8vI-3" value="Messages" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="91" y="44" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k9V2tqmrP7SHH0lYJ8vI-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="76" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="k9V2tqmrP7SHH0lYJ8vI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52" y="30" width="149" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="k9V2tqmrP7SHH0lYJ8vI-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="k9V2tqmrP7SHH0lYJ8vI-1" target="k9V2tqmrP7SHH0lYJ8vI-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="34" y="136" as="sourcePoint" />
+            <mxPoint x="58" y="34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9V2tqmrP7SHH0lYJ8vI-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="k9V2tqmrP7SHH0lYJ8vI-1" target="k9V2tqmrP7SHH0lYJ8vI-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="34" y="136" as="sourcePoint" />
+            <mxPoint x="84" y="86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9V2tqmrP7SHH0lYJ8vI-8" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fullname &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Password&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ProfilePic&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-43" y="69" width="60" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="k9V2tqmrP7SHH0lYJ8vI-10" value="&lt;div&gt;Sender ID&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Receiver ID&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Text &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Image&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="94.5" y="81" width="93" height="102" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
